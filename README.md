@@ -1,4 +1,4 @@
-## NOTES ABOUT THE CODE CONTAINED IN JLIEMANSIFRY/49_CETI##
+Notes Related to the 49 Ceti Project...
 
 Background: 
 49 Ceti is a gas-rich debris disk that was recently resolved by ALMA at unprecedented angular resolution and 
@@ -8,12 +8,12 @@ disk characterized by small , 0.1 micron grains, whereas the outer belt is chara
 increases in surface density to a peak around 110AU before falling off thereafter. We think this region of higher density in
 the dust corresponds to a similar increase in the gas surface density, but models have thus far been inconclusive.
 
-## DATA PRESENTATION: 
+## Data presentation: 
 49Ceti_dataPlots.py takes 49Ceti_.75arcsectaper.fits and 49Ceti_robust2.fits as inputs and creates 
 49Ceti_dataPlots.png as output. The color maps used are custom in order to appear continuous in color and greyscale. 
 It could be easily edited to take different data images if desired.
 
-## WHAT IS RESPONSIBLE FOR THE PEAK IN SURFACE DENSITY? 
+## What is responsible for the peak in surface density? 
 49Ceti_plotStirring.py generates a plot (49 Ceti_plotStirring.png)
 of the eccentricity needed for a hypothetical planet in semi-major axis/mass space in order to "stir" the planetesimal belt at 
 110AU. Debris rings need something to jostle them to continually replenish the small dust grains we observe. 49 Ceti's disk
