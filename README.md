@@ -1,10 +1,9 @@
-Notes Related to the 49 Ceti Project...
+## Notes Related to the 49 Ceti Project...
 
-Background: 
+## Background: 
 49 Ceti is a gas-rich debris disk that was recently resolved by ALMA at unprecedented angular resolution and 
 sensitivity. My senior thesis involved modeling these data in order to better understand the processes that shape planet 
-formation. We find that the dust disk of 49 Ceti is unlike anything observed before. It has two distinct regions, with an inner 
-disk characterized by small , 0.1 micron grains, whereas the outer belt is characterized by larger, 2.0 micron grains. The disk
+formation. We find that the dust disk of 49 Ceti is unlike anything observed before. It has two distinct regions, with an inner disk characterized by small , 0.1 micron grains, whereas the outer belt is characterized by larger, 2.0 micron grains. The disk
 increases in surface density to a peak around 110AU before falling off thereafter. We think this region of higher density in
 the dust corresponds to a similar increase in the gas surface density, but models have thus far been inconclusive.
 
