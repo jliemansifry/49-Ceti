@@ -1,7 +1,9 @@
 ## Notes related to the 49 Ceti project...
 
 ## Background: 
-49 Ceti is a gas-rich debris disk that was recently resolved by ALMA at unprecedented angular resolution and sensitivity. My senior thesis involved modeling these data in order to better understand the processes that shape planet formation. We find that the dust disk of 49 Ceti is unlike anything observed before. It has two distinct regions, with an inner disk characterized by small , 0.1 micron grains, whereas the outer belt is characterized by larger, 2.0 micron grains. The disk increases in surface density to a peak around 110AU before falling off thereafter. We think this region of higher density in the dust corresponds to a similar increase in the gas surface density, but models have thus far been inconclusive.
+49 Ceti is a gas-rich debris disk that was recently resolved by ALMA at unprecedented angular resolution and sensitivity. My senior thesis involved modeling these data in order to better understand the processes that shape planet formation. We find that the dust disk of 49 Ceti is unlike anything observed before. It has two distinct regions, with an inner disk characterized by small, ~0.1 micron grains, whereas the outer belt is characterized by larger, ~2.0 micron grains. The disk increases in surface density to a peak around 110AU before falling off thereafter. We think this region of higher density in the dust corresponds to a similar increase in the gas surface density, but models have thus far been inconclusive.
+
+For information about the modeling process, please see [this repository](https://github.com/jliemansifry/DustDiskModeling). 
 
 ## Data presentation: 
 49Ceti_dataPlots.py takes 49Ceti_.75arcsectaper.fits and 49Ceti_robust2.fits as inputs and creates 49Ceti_dataPlots.png as output. The color maps used are custom in order to appear continuous in color and greyscale. It could be easily edited to take different data images if desired.
